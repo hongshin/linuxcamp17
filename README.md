@@ -1,3 +1,7 @@
+## References ##
+* (The Linux command line)[http://www.tldp.org/LDP/sag/html/index.html]
+* (The Linux System Adiminstrator's Guide)[http://www.tldp.org/LDP/sag/html/index.html]
+
 ## Survey ##
 https://goo.gl/forms/htU7XHh19GRpc8vq2
 
