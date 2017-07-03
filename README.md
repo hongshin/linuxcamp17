@@ -1,5 +1,5 @@
 ## References ##
-* The Linux command line http://www.tldp.org/LDP/sag/html/index.html
+* The Linux command line http://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download
 * The Linux System Adiminstrator's Guide http://www.tldp.org/LDP/sag/html/index.html
 
 ## Survey ##
