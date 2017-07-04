@@ -1,3 +1,10 @@
+# Day2 #
+
+## Lab1 ##
+http://github.com/shinhong/linuxcamp17/lab1.pdf
+
+
+# Day1 #
 ## References ##
 * The Linux command line http://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download
 * The Linux System Adiminstrator's Guide http://www.tldp.org/LDP/sag/html/index.html
