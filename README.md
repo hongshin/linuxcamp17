@@ -1,8 +1,7 @@
 # Day2 #
 
 ## Lab1 ##
-http://github.com/shinhong/linuxcamp17/lab1.pdf
-
+https://github.com/shinhong/linuxcamp17/blob/master/lab1.pdf
 
 # Day1 #
 ## References ##
