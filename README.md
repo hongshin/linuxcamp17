@@ -1,3 +1,11 @@
+# Day3 #
+
+## Lecture note ##
+* Writing Bash Shell script https://github.com/shinhong/linuxcamp17/blob/master/bash-script.pdf
+* Shell programming with Bash by Prof. Matt Might http://matt.might.net/articles/bash-by-example/
+
+## Lab2 ##
+
 # Day2 #
 
 ## Lab1 ##
