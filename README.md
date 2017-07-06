@@ -1,5 +1,12 @@
 # Day4 #
 
+## Lecture note ##
+* Makefile: https://github.com/shinhong/linuxcamp17/blob/master/makefile.pdf
+* Library interpositioning
+  - The original slide of the CS:APP book: http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/lectures/13-linking.pdf
+  - Code example: http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/code/13-linking.tar
+
+
 ## Exit survey ##
 https://goo.gl/forms/m4fSa12DY2S2yfbV2
 
