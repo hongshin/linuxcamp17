@@ -111,4 +111,3 @@ https://goo.gl/forms/htU7XHh19GRpc8vq2
 정다은	camp036
 
 ### Default password ###
-osscamp
