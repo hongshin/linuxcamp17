@@ -1,3 +1,8 @@
+# Day4 #
+
+## Exit survey ##
+https://goo.gl/forms/m4fSa12DY2S2yfbV2
+
 # Day3 #
 
 ## Lecture note ##
